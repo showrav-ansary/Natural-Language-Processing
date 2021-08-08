@@ -1,12 +1,47 @@
 # CSE431 - Natural Language Processing
 
-### Student Information 
-* Name : A. A. Noman Ansary
-* ID : 18301147
-* Course Semester : Summer2021
+## Student Information 
+---
+Name : A. A. Noman Ansary
 
-## Workshops Included with The Course
+ID : 18301147
 
+Course Semester : Summer2021
+
+## Topics 
+---
+ 
+1.	Regular Expressions, Text Normalization, Edit Distance 	
+2.  Edit Distance 
+3.	N-gram Language Models 	
+4.	Naive Bayes and Sentiment Classification 	
+5.	Logistic Regression
+6.	Vector Semantics and Embeddings 	
+7.	Neural Networks and Neural Language Models 	
+8.	Sequence Labeling for Parts of Speech and Named Entities 	
+9.	Deep Learning Architectures for Sequence Processing 		
+10.	Contextual Embeddings 		
+11.	Machine Translation 
+ 
+12.	Constituency Grammars 		
+13.	Constituency Parsing 	
+14.	Dependency Parsing 
+ 
+15.	Logical Representations of Sentence Meaning
+16.	Computational Semantics and Semantic Parsing
+17.	Information Extraction 
+18.	Word Senses and WordNet 	
+19.	Semantic Role Labeling and Argument Structure 		
+20.	Lexicons for Sentiment, Affect, and Connotation 	2
+21.	Coreference Resolution 
+22.	Discourse Coherence
+23.	Question Answering 	
+24.	Chatbots and Dialogue Systems 
+25.	Phonetics 		
+26.	Automatic Speech Recognition and Text-to-Speech 	
+
+### Workshops Included with The Course
+---
 * Working with Data (Regular Expressions)
 https://librarycarpentry.org/lc-data-intro/
 
@@ -66,3 +101,11 @@ https://carpentries-incubator.github.io/multiple-linear-regression-public-health
 
 * Text Analysis in Python
 https://carpentries-incubator.github.io/python-text-analysis/
+
+## Acknowledgements
+Heartiest gratitude to:  
+* [Annajiat Alim Rasel](), Senior Lecturer, Department of Computer Science and Engineering and Deputy Director, Institutional Quality Assurance Cell, BRAC University. Also the instructor of this course.
+
+
+* [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) , Jackson Eli Reynolds Professor
+  in Humanities,Professor of Linguistics, Professor of Computer Science, Stanford University  and [James H. Martin](https://home.cs.colorado.edu/~martin/),Professor of Computer Science and a fellow in the Institute of Cognitive Science, University of Colorado Boulder for their `open source` book, [Speech and Language Processing, 3rd Ed.](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf) which was the primary learning textbook.
