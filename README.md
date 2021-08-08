@@ -1,10 +1,9 @@
 # CSE431 - Natural Language Processing
 
-### Student 
-
-Name : A. A. Noman Ansary
-ID : 18301147
-Semeser : Summer2021
+### Student Information 
+* Name : A. A. Noman Ansary
+* ID : 18301147
+* Course Semester : Summer2021
 
 ## Workshops Included with The Course
 
